@@ -110,9 +110,9 @@ i{
     border-right: 2px solid #B22222; /* Ajouter un trait bordeaux à droite au survol */
 }
 
-footer a:nth-child(1){color: #ffffff}
+footer a:nth-child(1){color: #5e7feb}
 footer a:nth-child(2){color: #50abf1}
-footer a:nth-child(3){color: #000000}
+footer a:nth-child(3){color: #ffffff}
 
 .social-icon {
     opacity: 1;
@@ -121,3 +121,4 @@ footer a:nth-child(3){color: #000000}
 .social-icon:hover {
     opacity: 0.6; /* Opacité réduite au survol */
 }
+
